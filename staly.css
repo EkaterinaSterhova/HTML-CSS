@@ -1,0 +1,27 @@
+body {
+  width: 40%;
+  background-color: #abc2c2;
+}
+
+h1 {
+  font-family: New_font, sans-serif;
+  color: #e01f59d4;
+}
+
+h2 {
+  font-family: New_font, sans-serif;
+  color: hsla(342, 59%, 45%, 0.831);
+}
+
+ul {
+  list-style-type: square;
+}
+
+
+a:hover {
+  color: #00ff9d;
+}
+
+p {
+  color: hsl(300, 55%, 9%);
+}
